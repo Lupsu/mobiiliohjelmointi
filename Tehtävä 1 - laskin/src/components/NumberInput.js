@@ -5,7 +5,7 @@ function NumberInput() {
     const [numberOne, setNumberOne] = useState("");
     const [numberTwo, setNumberTwo] = useState("");
     const [numbersTotal, setNumbersTotal] = useState("");
-    // test
+    
     const PlusButton = () => {
         return (
             <Pressable

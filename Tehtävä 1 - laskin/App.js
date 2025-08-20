@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
-import { NumberInput } from './components'
+import { NumberInput } from './src/components'
 
 export default function App() {
 
